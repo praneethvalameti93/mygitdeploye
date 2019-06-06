@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mygitdeploye/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mygitdeploye/static/js/main.03f4890e.chunk.js",
+    "main.js.map": "/mygitdeploye/static/js/main.03f4890e.chunk.js.map",
+    "runtime~main.js": "/mygitdeploye/static/js/runtime~main.adb2e1cc.js",
+    "runtime~main.js.map": "/mygitdeploye/static/js/runtime~main.adb2e1cc.js.map",
+    "static/js/2.b41502e9.chunk.js": "/mygitdeploye/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/mygitdeploye/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/mygitdeploye/index.html",
+    "precache-manifest.f4018cb740a30ef7d6a1d173cef5f260.js": "/mygitdeploye/precache-manifest.f4018cb740a30ef7d6a1d173cef5f260.js",
+    "service-worker.js": "/mygitdeploye/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/mygitdeploye/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/mygitdeploye/static/media/logo.5d5d9eef.svg"
+  }
+}
